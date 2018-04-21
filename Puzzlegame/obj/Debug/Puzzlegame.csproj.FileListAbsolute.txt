@@ -1,0 +1,10 @@
+C:\Users\Mirim\source\repos\Puzzlegame\Puzzlegame\bin\Debug\Puzzlegame.exe.config
+C:\Users\Mirim\source\repos\Puzzlegame\Puzzlegame\bin\Debug\Puzzlegame.exe
+C:\Users\Mirim\source\repos\Puzzlegame\Puzzlegame\bin\Debug\Puzzlegame.pdb
+C:\Users\Mirim\source\repos\Puzzlegame\Puzzlegame\obj\Debug\Puzzlegame.csprojResolveAssemblyReference.cache
+C:\Users\Mirim\source\repos\Puzzlegame\Puzzlegame\obj\Debug\Puzzlegame.Form1.resources
+C:\Users\Mirim\source\repos\Puzzlegame\Puzzlegame\obj\Debug\Puzzlegame.Properties.Resources.resources
+C:\Users\Mirim\source\repos\Puzzlegame\Puzzlegame\obj\Debug\Puzzlegame.csproj.GenerateResource.cache
+C:\Users\Mirim\source\repos\Puzzlegame\Puzzlegame\obj\Debug\Puzzlegame.csproj.CoreCompileInputs.cache
+C:\Users\Mirim\source\repos\Puzzlegame\Puzzlegame\obj\Debug\Puzzlegame.exe
+C:\Users\Mirim\source\repos\Puzzlegame\Puzzlegame\obj\Debug\Puzzlegame.pdb
